@@ -79,7 +79,3 @@ model.evaluate(X_valid, y_valid)
 valid_0 = X_valid[0].reshape(1, 784)
 
 model.predict(valid_0)
-
-import numpy as np
-
-y_predict = np.argmax(model.predict(valid_0), axis=-1)
