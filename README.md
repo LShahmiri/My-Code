@@ -1,3 +1,3 @@
 # My-Code
 
-#MI=Mutual Information
+#MI=Mutual Information(calculating MI between two images)
